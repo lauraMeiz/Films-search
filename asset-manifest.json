@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/lauraMeiz/Films-search/static/css/main.e251594e.css",
-    "main.js": "/lauraMeiz/Films-search/static/js/main.bb38222e.js",
-    "static/js/787.81cdfaf0.chunk.js": "/lauraMeiz/Films-search/static/js/787.81cdfaf0.chunk.js",
-    "static/media/star.svg": "/lauraMeiz/Films-search/static/media/star.de82f684d9b78d1adba7723eaae71dab.svg",
-    "index.html": "/lauraMeiz/Films-search/index.html",
-    "static/media/movie.svg": "/lauraMeiz/Films-search/static/media/movie.f7adbb31d68e79caa835849fa73c5650.svg",
-    "main.e251594e.css.map": "/lauraMeiz/Films-search/static/css/main.e251594e.css.map",
-    "main.bb38222e.js.map": "/lauraMeiz/Films-search/static/js/main.bb38222e.js.map",
-    "787.81cdfaf0.chunk.js.map": "/lauraMeiz/Films-search/static/js/787.81cdfaf0.chunk.js.map"
+    "main.css": "/Films-search/static/css/main.e251594e.css",
+    "main.js": "/Films-search/static/js/main.39bf752e.js",
+    "static/js/787.81cdfaf0.chunk.js": "/Films-search/static/js/787.81cdfaf0.chunk.js",
+    "static/media/star.svg": "/Films-search/static/media/star.de82f684d9b78d1adba7723eaae71dab.svg",
+    "index.html": "/Films-search/index.html",
+    "static/media/movie.svg": "/Films-search/static/media/movie.f7adbb31d68e79caa835849fa73c5650.svg",
+    "main.e251594e.css.map": "/Films-search/static/css/main.e251594e.css.map",
+    "main.39bf752e.js.map": "/Films-search/static/js/main.39bf752e.js.map",
+    "787.81cdfaf0.chunk.js.map": "/Films-search/static/js/787.81cdfaf0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e251594e.css",
-    "static/js/main.bb38222e.js"
+    "static/js/main.39bf752e.js"
   ]
 }
