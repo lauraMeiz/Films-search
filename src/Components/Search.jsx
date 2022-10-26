@@ -37,7 +37,7 @@ function Search() {
 
   return (
     <>
-      <div>
+      <div className="top-row">
         <div className="top">
           <img style={{ width: "30px" }} src={filmas} alt="filmas" />
           <input
